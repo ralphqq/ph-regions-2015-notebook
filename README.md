@@ -1,4 +1,4 @@
-## updating-ph-regions-map
+## ph-regions-2015
 This notebook goes through the steps of preparing and generating up-to-date shape files of the Philippine administrative regions.
 
 ## Data Sources
