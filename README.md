@@ -1,4 +1,4 @@
-## ph-regions-2015
+## ph-regions-2015-notebook
 This notebook goes through the steps of preparing and generating up-to-date shape files of the Philippine administrative regions.
 
 ## Data Sources
