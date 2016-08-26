@@ -1,6 +1,8 @@
 ## ph-regions-2015-notebook
 This notebook goes through the steps of preparing and generating up-to-date shape files of the Philippine administrative regions.
 
+Also, please check out the [accompanying blog post](https://dcdabbler.wordpress.com/2016/08/26/using-geopandas-to-build-updated-philippine-regions-shape-file-in-python/#more-454) to this notebook at my personal blog.
+
 ## Data Sources
 The original shape files used here are downloaded from the following:
 
