@@ -10,9 +10,9 @@ The original shape files used here are downloaded from the following:
 * [**GADM Database**](http://www.gadm.org/download) - for the provincial-level shape files.
 * [**Phil. Statistics Authority**](http://www.nscb.gov.ph/activestats/psgc/SUMWEBPROV-JUNE2016-CODED-HUC-FINAL.pdf) - for the PDF file containing updated PSGG codes.
 
-**IMPORTANT:** Because of the license terms accompanying the shape files downloaded from the GDAM Database, I did not push those files into this repository. So, in order to have all the needed shape files to run this notebook, please do the following:
+**IMPORTANT:** Because of the license terms accompanying the shape files downloaded from the GADM Database, I did not push those files into this repository. So, in order to have all the needed shape files to run this notebook, please do the following:
 
-1. Go to the [GDAM download page](http://www.gadm.org/download).
+1. Go to the [GADM download page](http://www.gadm.org/download).
 2. Choose country data for the Philippines and hit download.
 3. Unzip the downloaded zip file.
 4. Copy the files `PHL_adm1.shp`, `PHL_adm1.dbf`, and `PHL_adm1.shx` into the directory named `Original` of this project.
